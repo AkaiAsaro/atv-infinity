@@ -1,0 +1,10 @@
+.tabela{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+td{
+    width: 35rem;
+    height: 5rem;
+}
